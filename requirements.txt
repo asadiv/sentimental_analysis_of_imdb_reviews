@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+streamlit
+joblib
+pyprind
+packaging
+matplotlib
+scikit-learn==1.9.0
