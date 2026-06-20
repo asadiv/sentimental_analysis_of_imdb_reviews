@@ -26,6 +26,7 @@ def preprocess(text):
 model = joblib.load("sentiment_model1.pkl")
 
 st.title("Movie Review Sentiment Analyzer")
+st.info("Note: The model was trained on long IMDb-style reviews, so short inputs or a few words may not give reliable predictions.")
 
 review = st.text_area("Enter a movie review")
 
