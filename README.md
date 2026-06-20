@@ -4,7 +4,7 @@ A machine learning project that classifies IMDb movie reviews as **positive** or
 
 
 ## Live Demo
- [Add your Streamlit app link here]
+ [[Streamlit app link](https://imdbreviewanalysis1.streamlit.app/)]
 
 
 ---
